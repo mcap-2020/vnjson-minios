@@ -1,0 +1,9 @@
+- dialog-box: classic
+  next: true
+
+- mc-get:
+    request: PLAYER
+    slot: 1
+    pos: "0 0 0"
+    data: "clear"
+  next: true
